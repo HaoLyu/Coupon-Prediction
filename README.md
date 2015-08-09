@@ -3,7 +3,7 @@ Predict which coupons users will buy on the Ponpare(Japan's leading joint coupon
 
 This projetc is a competition of Kaggle  https://www.kaggle.com/c/coupon-purchase-prediction
 
-Predict which coupons a customer will buy
+#Predict which coupons a customer will buy 
 
 Recruit Ponpare is Japan's leading joint coupon site, offering huge discounts on everything from hot yoga, to gourmet sushi, to a summer concert bonanza. Ponpare's coupons open doors for customers they've only dreamed of stepping through. They can learn difficult to acquire skills, go on unheard of adventures, and dine like (and with) the stars.
 
