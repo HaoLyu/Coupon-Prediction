@@ -1,0 +1,3 @@
+Please download all data from https://www.kaggle.com/c/coupon-purchase-prediction/data
+
+After downloading 10 data files, just keep its name and remove them to this data directory
